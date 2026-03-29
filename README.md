@@ -4,3 +4,6 @@ An open source Custom 6-DOF robotic arm based on Toolboxrobotics project Collabo
 Project link: https://toolboxrobotics.com/robotic-arm-eb15
 License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Autor: Toolboxrobotics
+Complete presentation link of my work : https://prezi.com/p/edit/6eof52t2l8xl/
+
+My real contribution is the code and the tips for 3d print easly.
