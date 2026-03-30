@@ -13,9 +13,13 @@ The robot is not yet complete — I'm still working on:
 
 # Repository structure
 SixTetarm-RoboticArm/
+
 ├── README.md # Main project documentation
+
 ├── LICENSE # Project license (CC BY-NC-SA 4.0)
+
 │
+
 ├── 📁 3D Structures/ # 3D printable STL files
 │ ├──📁  Planetary_Gear_EBA17/
 │ ├── 📁 Planetary_Gear_EB17s/
