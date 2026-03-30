@@ -30,9 +30,9 @@ SixTetarm-RoboticArm/
 
 │ ├── 📁 Collaborative Robot Arm eb-15/
 
-│ ├── 📁 Adaptive Robot Gripper EBG-20/
+│ └── 📁 Adaptive Robot Gripper EBG-20/
 
-│ └── Readme.txt
+│ 
 
 │
 
@@ -66,9 +66,8 @@ SixTetarm-RoboticArm/
 
 └── 📁 Schematics,Datasheets/ # Hardware documentation
 
-│ ├──(schematics, wiring diagrams, PDFs)
+│ └── (schematics, wiring diagrams, PDFs)
 
-│ └── Readme.txt
 
 
 Project link: https://toolboxrobotics.com/robotic-arm-eb15
