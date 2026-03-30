@@ -72,7 +72,7 @@ SixTetarm-RoboticArm/
 
 Project link: https://toolboxrobotics.com/robotic-arm-eb15
 License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Autor of original prohìject: Toolboxrobotics
+Autor of original project: Toolboxrobotics
 
 Complete presentation link of my work : https://prezi.com/p/edit/6eof52t2l8xl/
 
