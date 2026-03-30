@@ -6,7 +6,9 @@ An open source Custom 6-DOF robotic arm based on Toolboxrobotics project Collabo
 
 The robot is not yet complete — I'm still working on:
 - Hardware assembly (J6 joint pending, adaptive)
-- Full firmware validation 
+  
+- Full firmware validation
+   
 - End-to-end testing
 
 **Open to suggestions and collaboration!** Feel free to open issues, propose improvements, or share your ideas. Pull requests welcome!
@@ -21,34 +23,58 @@ SixTetarm-RoboticArm/
 │
 
 ├── 📁 3D Structures/ # 3D printable STL files
+
 │ ├──📁  Planetary_Gear_EBA17/
+
 │ ├── 📁 Planetary_Gear_EB17s/
+
 │ ├── 📁 Collaborative Robot Arm eb-15/
+
 │ ├── 📁 Adaptive Robot Gripper EBG-20/
+
 │ └── Readme.txt
+
 │
+
 ├── 📁 Codes/ # Software and firmware
+
 │ ├── 📁 Bridge Ros 2/robot_bridge/
+
 │ ├── 📁 FirmwareROBOT/ # NOT READY
+
 │ ├── 📁 SixTetarm_controller/#webots controller, TESTED, WAIT FOR UPGRADE
+
 │ ├── 📁 Test_stepper_engine_nema/ TESTED, WORK!
+
 │ ├── 📁 Worlds/ # Webots world
+
 │ └── Readme.txt 
+
 │
+
 ├── 📁 Sliced Models/
+
 │ ├── Planetary gears EBA17s.3mf
+
 │ ├── Planetary gears EBA17.3mf
+
 │ ├── StrutturaBase.3mf
+
 │ └── Readme.txt
+
 │
+
 └── 📁 Schematics,Datasheets/ # Hardware documentation
+
 │ ├──(schematics, wiring diagrams, PDFs)
+
 │ └── Readme.txt
 
 
 Project link: https://toolboxrobotics.com/robotic-arm-eb15
 License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-Autor: Toolboxrobotics
+Autor of original prohìject: Toolboxrobotics
+
 Complete presentation link of my work : https://prezi.com/p/edit/6eof52t2l8xl/
 
 My contribution is the code, the simulation setup and the tips for 3d print.
